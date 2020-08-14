@@ -1,5 +1,5 @@
 # ProjectBelial
-ProjectBelial was a UE4 C++ 3rd Year project (2015) for a couple of students and I. We did this project in roughly 4-5 months to a spec we created ourselves. It was created in Unreal Engine v4.0.8 and is since heavily deprecated.
+ProjectBelial was a UE4 C++ 3rd Year project (2015) for a couple of students and I. We did this project in roughly 4-5 months to a spec we created ourselves. It was created in Unreal Engine v4.7 and is since heavily deprecated.
 
 ## Installation
 This project will no longer run due to changes with the Unreal 4 Engine, however here are some video URLs of it working way back when...
